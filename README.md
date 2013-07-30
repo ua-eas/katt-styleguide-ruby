@@ -1,6 +1,6 @@
 # The Ruby Style Guide
 
-This style guide should be used to all applications developed on the 
+This style guide should be used for all applications developed on the 
 Kuali Applications Technical Team at the University of Arizona
 
 The majority of these rules have been adapted for use on our team based
