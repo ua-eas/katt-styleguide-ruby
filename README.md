@@ -333,9 +333,7 @@ end
     # good - much easier to parse for the human brain
     num = 1_000_000
     ```
-
-* Use RDoc and its conventions for API documentation.  Don't put an
-  empty line between the comment block and the `def`.
+    
 * Limit lines to 80 characters.
 * Avoid trailing whitespace.
 * Don't use block comments. They cannot be preceded by whitespace and are not
